@@ -1,0 +1,501 @@
+Umur(bulan),JenisKelamin,TinggiBadan,StatusGizi
+31,pria,95,normal
+28,pria,79.8,severely stunted
+30,wanita,78.1,severely stunted
+54,wanita,107.6,normal
+25,pria,84.8,normal
+35,wanita,108.7,tinggi
+30,pria,95.8,normal
+60,wanita,102.7,normal
+40,wanita,107,normal
+44,wanita,105.7,normal
+57,wanita,124.5,tinggi
+16,pria,76.8,normal
+33,pria,108.2,tinggi
+25,wanita,88.2,normal
+16,pria,76.2,normal
+14,pria,86.6,tinggi
+10,wanita,64.6,stunted
+3,pria,49.9,severely stunted
+25,wanita,77.2,stunted
+52,wanita,89.2,severely stunted
+20,pria,81.5,normal
+37,wanita,93.1,normal
+44,pria,89.8,stunted
+5,pria,62.8,normal
+53,wanita,90.8,severely stunted
+50,pria,109.6,normal
+12,wanita,74.6,normal
+40,pria,106.7,normal
+37,pria,87.4,stunted
+40,wanita,94.2,normal
+0,pria,52.47810103,normal
+14,wanita,81,normal
+41,wanita,99.4,normal
+28,wanita,87.4,normal
+6,wanita,74.3,tinggi
+28,pria,88.3,normal
+4,pria,61.4,normal
+44,pria,92.1,stunted
+43,wanita,94.3,normal
+60,pria,108.3,normal
+40,pria,113.8,tinggi
+3,pria,72.8,tinggi
+47,pria,106.4,normal
+28,pria,85.1,normal
+35,wanita,90.4,normal
+53,pria,93.6,stunted
+14,pria,75.5,normal
+25,pria,76.5,severely stunted
+49,wanita,106.5,normal
+16,pria,81.2,normal
+14,wanita,82.1,normal
+49,pria,96.3,normal
+12,wanita,68.4,stunted
+26,wanita,93.7,normal
+56,wanita,96.9,stunted
+31,pria,89.8,normal
+2,wanita,61.89114983,normal
+50,wanita,94.7,stunted
+35,wanita,104.3,normal
+43,pria,107.7,normal
+43,pria,96,normal
+47,pria,99,normal
+5,wanita,68.8,normal
+32,pria,90.8,normal
+25,pria,85,normal
+28,pria,79.7,severely stunted
+58,pria,98.4,stunted
+33,wanita,100.1,normal
+9,wanita,75.3,normal
+44,pria,91.8,stunted
+15,wanita,69.2,severely stunted
+27,pria,88.6,normal
+57,wanita,92.6,severely stunted
+24,pria,84.5,normal
+3,wanita,73.6,tinggi
+47,wanita,94.8,normal
+47,wanita,98.3,normal
+59,wanita,110.9,normal
+54,wanita,122.4,tinggi
+60,pria,117.9,normal
+55,pria,109.2,normal
+57,wanita,93.8,severely stunted
+49,pria,97.8,normal
+33,wanita,104.2,tinggi
+2,wanita,54.61699241,normal
+40,wanita,98.8,normal
+36,pria,100,normal
+37,pria,92.6,normal
+47,wanita,115.7,tinggi
+48,pria,106,normal
+51,wanita,106.6,normal
+25,wanita,87,normal
+60,pria,109.6,normal
+13,wanita,86.4,tinggi
+16,wanita,80.6,normal
+32,wanita,99.3,normal
+29,pria,78.3,severely stunted
+37,wanita,85.4,stunted
+28,pria,80.1,severely stunted
+35,pria,92.4,normal
+43,pria,91.5,stunted
+17,pria,69,severely stunted
+9,wanita,84,tinggi
+42,wanita,111.5,tinggi
+55,pria,104.5,normal
+55,pria,120.5,normal
+57,pria,96.1,stunted
+10,wanita,80.1,tinggi
+50,wanita,92.9,stunted
+17,wanita,87.5,normal
+12,pria,64.4,severely stunted
+48,wanita,95.2,normal
+38,wanita,80.8,severely stunted
+22,pria,85.4,normal
+23,pria,99,tinggi
+0,pria,53.40156785,normal
+24,pria,100,tinggi
+0,wanita,49.19385353,normal
+39,wanita,105.9,normal
+35,pria,96.1,normal
+52,wanita,97.8,normal
+36,pria,110.6,tinggi
+25,wanita,95.6,normal
+28,pria,82.1,stunted
+33,pria,86.5,stunted
+6,pria,66.9,normal
+13,pria,88.9,tinggi
+55,wanita,119.9,normal
+29,wanita,89.5,normal
+1,wanita,50.94070554,normal
+39,wanita,105.6,normal
+44,wanita,98.1,normal
+48,pria,96.2,normal
+15,pria,75.1,normal
+54,pria,102.8,normal
+32,pria,93.4,normal
+27,wanita,84.5,normal
+32,wanita,103.9,tinggi
+51,wanita,110.6,normal
+57,pria,113.7,normal
+0,pria,48.01630348,normal
+29,wanita,104.9,tinggi
+17,wanita,92.3,tinggi
+33,pria,96.8,normal
+17,wanita,74.3,normal
+52,wanita,107.4,normal
+27,wanita,97.6,normal
+51,wanita,101.2,normal
+36,pria,92.3,normal
+60,pria,99.9,stunted
+15,pria,79.6,normal
+26,wanita,97.7,tinggi
+31,pria,94.6,normal
+49,pria,110,normal
+19,wanita,71.5,severely stunted
+36,wanita,104.7,normal
+5,wanita,61.2,normal
+38,wanita,103,normal
+19,pria,73.8,severely stunted
+35,wanita,97.8,normal
+11,wanita,82.9,tinggi
+43,pria,82.3,severely stunted
+20,wanita,71.2,severely stunted
+32,wanita,95.6,normal
+56,pria,100.3,normal
+25,pria,82.3,normal
+19,wanita,94.8,tinggi
+30,wanita,103.1,tinggi
+33,wanita,95.4,normal
+34,pria,107.3,tinggi
+15,wanita,80.8,normal
+26,pria,90.1,normal
+4,pria,72.3,tinggi
+25,wanita,87.2,normal
+7,pria,81.7,tinggi
+51,wanita,109.7,normal
+1,pria,55.53904794,normal
+28,pria,99.3,normal
+50,pria,102,normal
+17,wanita,93,tinggi
+28,pria,94.5,normal
+57,pria,100.1,normal
+22,wanita,72.9,severely stunted
+28,wanita,93.3,normal
+57,wanita,93.6,severely stunted
+48,wanita,113.4,normal
+6,pria,76.7,tinggi
+51,wanita,106.2,normal
+48,wanita,118,tinggi
+4,wanita,75.5,tinggi
+0,wanita,59.90746508,tinggi
+22,wanita,71,severely stunted
+27,pria,96.8,normal
+36,wanita,105.6,normal
+25,wanita,100.8,tinggi
+35,pria,109,tinggi
+56,wanita,113.8,normal
+53,pria,121.7,tinggi
+32,pria,90.1,normal
+26,wanita,96.2,normal
+40,pria,106.1,normal
+10,wanita,58.3,severely stunted
+55,pria,102.4,normal
+22,pria,97.2,tinggi
+39,wanita,86.7,stunted
+16,wanita,71.2,stunted
+7,pria,72.3,normal
+23,wanita,94.9,normal
+57,wanita,117.4,normal
+32,wanita,89.4,normal
+25,wanita,84.1,normal
+22,pria,91,normal
+7,pria,57.3,severely stunted
+32,wanita,88.3,normal
+52,wanita,109.1,normal
+28,pria,91.2,normal
+54,pria,105.5,normal
+53,pria,101.6,normal
+13,pria,85.5,tinggi
+51,wanita,89.7,severely stunted
+7,wanita,67.1,normal
+59,wanita,112.3,normal
+38,pria,88.8,stunted
+15,pria,86.8,tinggi
+60,wanita,95.8,stunted
+35,wanita,88.7,normal
+17,pria,91.3,tinggi
+12,pria,84.9,tinggi
+1,wanita,43.90426386,severely stunted
+39,wanita,98.6,normal
+11,pria,80,normal
+59,wanita,110.6,normal
+55,pria,104.2,normal
+59,pria,111.4,normal
+46,wanita,98.9,normal
+14,pria,68.9,severely stunted
+58,pria,100.4,normal
+27,wanita,79.7,stunted
+29,wanita,99.8,normal
+30,wanita,80.3,stunted
+4,pria,53.7,severely stunted
+44,wanita,104.6,normal
+20,wanita,76.2,stunted
+8,wanita,67.5,normal
+24,pria,97.1,tinggi
+35,wanita,85.5,stunted
+10,pria,74.7,normal
+32,wanita,83.9,stunted
+60,wanita,99.5,stunted
+30,pria,106.1,tinggi
+54,wanita,112.3,normal
+32,pria,82.4,severely stunted
+40,pria,111,tinggi
+31,wanita,105.6,tinggi
+8,pria,67.3,normal
+48,pria,98.7,normal
+40,pria,93.5,normal
+43,pria,98.1,normal
+36,wanita,90.5,normal
+6,pria,78.6,tinggi
+2,wanita,51.56775424,stunted
+43,pria,102.7,normal
+22,wanita,82.2,normal
+5,wanita,61.7,normal
+43,pria,94.8,normal
+35,pria,100.5,normal
+13,wanita,80.2,normal
+0,pria,49.39840379,normal
+2,pria,74.43516916,tinggi
+0,pria,56.96176887,tinggi
+5,pria,56,severely stunted
+50,pria,93.8,stunted
+25,pria,90.6,normal
+40,wanita,87.9,stunted
+11,pria,84.9,tinggi
+19,wanita,68,severely stunted
+3,pria,50.8,severely stunted
+43,wanita,85.1,severely stunted
+42,wanita,87.5,stunted
+53,pria,110.4,normal
+3,pria,53.6,severely stunted
+28,pria,97.9,normal
+23,pria,84.6,normal
+23,wanita,79.9,normal
+11,pria,73.2,normal
+35,pria,100.6,normal
+48,wanita,113.2,normal
+43,pria,109.5,normal
+15,wanita,71.2,stunted
+21,wanita,88.4,normal
+46,pria,87.7,severely stunted
+4,wanita,56.4,stunted
+3,wanita,64.8,normal
+47,wanita,94,normal
+46,pria,116,tinggi
+44,wanita,86.5,severely stunted
+21,wanita,89.6,normal
+34,pria,93.7,normal
+19,wanita,68.7,severely stunted
+11,wanita,75.4,normal
+35,pria,95.7,normal
+55,pria,95.4,stunted
+9,wanita,69.8,normal
+1,wanita,61.57035435,tinggi
+10,wanita,82.2,tinggi
+37,pria,91.2,normal
+10,wanita,65.7,stunted
+40,wanita,94.9,normal
+25,pria,89.4,normal
+53,pria,115.3,normal
+44,pria,114.3,tinggi
+50,pria,99.7,normal
+17,wanita,89.9,tinggi
+50,pria,118.8,tinggi
+27,pria,89.3,normal
+53,pria,103.4,normal
+25,pria,83.5,normal
+26,pria,99.7,tinggi
+22,pria,92.1,normal
+13,wanita,65.5,severely stunted
+18,wanita,81.1,normal
+29,wanita,95.5,normal
+36,wanita,86.2,stunted
+6,wanita,56.6,severely stunted
+6,pria,66.3,normal
+53,pria,96,stunted
+4,pria,57.3,severely stunted
+16,wanita,82,normal
+16,wanita,76.1,normal
+41,pria,98.1,normal
+20,pria,82.6,normal
+40,wanita,102.3,normal
+19,wanita,79.5,normal
+35,pria,101.6,normal
+42,wanita,110.3,normal
+8,wanita,71.5,normal
+19,wanita,88.4,normal
+30,wanita,90.3,normal
+43,wanita,99.3,normal
+2,wanita,68.27827342,tinggi
+55,pria,119.5,normal
+11,wanita,61,severely stunted
+53,wanita,112.3,normal
+25,pria,89.7,normal
+48,pria,89.3,severely stunted
+59,wanita,115.4,normal
+36,wanita,89.4,normal
+44,pria,114.3,tinggi
+58,wanita,110,normal
+45,wanita,88.6,stunted
+3,wanita,52.6,severely stunted
+10,pria,80.2,tinggi
+28,wanita,82.9,normal
+12,wanita,70.3,normal
+6,wanita,77.9,tinggi
+17,pria,94,tinggi
+1,pria,62.6089547,tinggi
+53,wanita,116.8,normal
+56,wanita,112.8,normal
+18,wanita,88.9,normal
+51,pria,109,normal
+25,pria,75.4,severely stunted
+24,pria,96.6,tinggi
+38,pria,102.5,normal
+29,wanita,81.4,stunted
+51,pria,89.4,severely stunted
+35,pria,97.5,normal
+57,pria,112.8,normal
+45,wanita,103.5,normal
+20,pria,91.2,normal
+48,wanita,102.1,normal
+17,wanita,81,normal
+45,pria,99.5,normal
+53,wanita,102.1,normal
+23,pria,85.3,normal
+1,wanita,49.57120567,stunted
+43,pria,91.8,stunted
+37,pria,98.3,normal
+24,pria,99.6,tinggi
+48,wanita,87.7,severely stunted
+24,pria,97.5,tinggi
+14,wanita,86.8,tinggi
+58,pria,92.6,severely stunted
+29,pria,83.9,stunted
+2,wanita,47.65124204,severely stunted
+2,wanita,59.43556152,normal
+7,wanita,78.3,tinggi
+27,wanita,96.3,normal
+15,wanita,85.4,normal
+34,pria,82.1,severely stunted
+38,pria,106,normal
+38,pria,92.4,normal
+30,wanita,95.4,normal
+6,pria,65.7,normal
+31,wanita,92.6,normal
+35,pria,106.5,tinggi
+54,pria,106,normal
+46,pria,110,normal
+42,pria,109.5,normal
+43,wanita,101.8,normal
+23,pria,91.4,normal
+47,pria,99.5,normal
+21,wanita,96.7,tinggi
+14,pria,68.5,severely stunted
+11,wanita,70.8,normal
+60,pria,123.2,normal
+42,wanita,105.9,normal
+25,wanita,92.5,normal
+44,pria,100.6,normal
+0,pria,44.0793795,severely stunted
+17,wanita,69.3,severely stunted
+51,pria,116.8,normal
+44,wanita,102.5,normal
+53,pria,90.7,severely stunted
+42,wanita,103.8,normal
+23,pria,77.1,severely stunted
+38,pria,108.9,tinggi
+39,pria,87.8,stunted
+18,wanita,83.6,normal
+46,wanita,114.5,tinggi
+58,wanita,94.1,severely stunted
+49,pria,89.4,severely stunted
+33,wanita,84.1,stunted
+30,wanita,102.3,tinggi
+32,pria,94.3,normal
+21,pria,89.9,normal
+15,pria,72.5,stunted
+49,pria,109,normal
+55,wanita,115.1,normal
+46,wanita,87.5,severely stunted
+37,pria,90.1,normal
+47,wanita,114.9,normal
+41,wanita,105,normal
+14,wanita,83.4,normal
+1,wanita,50.6534445,normal
+29,pria,76.3,severely stunted
+25,pria,87.4,normal
+41,pria,99.7,normal
+31,wanita,94.3,normal
+39,wanita,105.3,normal
+42,wanita,90,stunted
+27,pria,82.7,stunted
+12,pria,74.3,normal
+1,wanita,57.50317641,normal
+38,wanita,80.5,severely stunted
+49,wanita,113.1,normal
+55,wanita,99.1,normal
+32,pria,83.6,stunted
+59,pria,117.6,normal
+24,wanita,99.2,tinggi
+58,wanita,109.3,normal
+18,wanita,83.8,normal
+53,wanita,113.6,normal
+47,pria,107.9,normal
+3,pria,54,severely stunted
+39,wanita,82.3,severely stunted
+2,pria,70.65331793,tinggi
+50,wanita,92.5,stunted
+19,pria,75.2,stunted
+50,pria,114.8,normal
+57,pria,118.7,normal
+7,wanita,63.3,normal
+6,pria,57.8,severely stunted
+45,pria,102.1,normal
+14,wanita,67.9,severely stunted
+18,pria,72.9,severely stunted
+36,wanita,86.5,stunted
+54,wanita,95.7,stunted
+38,pria,108.4,normal
+3,pria,62.1,normal
+14,wanita,87.6,tinggi
+40,pria,85.1,severely stunted
+21,wanita,74.4,severely stunted
+10,wanita,60,severely stunted
+14,pria,86.9,tinggi
+29,wanita,96.4,normal
+16,wanita,73.8,normal
+12,wanita,66.2,severely stunted
+3,wanita,53.9,stunted
+49,pria,113.3,normal
+14,pria,87.4,tinggi
+21,wanita,78.3,normal
+4,wanita,73.7,tinggi
+33,pria,99,normal
+36,wanita,99.1,normal
+56,wanita,94.4,stunted
+32,pria,97.4,normal
+15,wanita,69.2,severely stunted
+46,wanita,117.1,tinggi
+27,wanita,87.8,normal
+52,pria,102.5,normal
+38,pria,102.8,normal
+1,wanita,51.19938129,normal
+5,pria,63.3,normal
+18,wanita,79,normal
+14,pria,69,severely stunted
+15,pria,84.2,normal
+25,wanita,85.2,normal
+48,pria,86.5,severely stunted
+52,wanita,88.7,severely stunted
